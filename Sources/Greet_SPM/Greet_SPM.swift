@@ -9,5 +9,9 @@ public class Greet_SPM {
     public func greetUserGoodEvening(name: String) {
         print("Good Evening \(name) !!!!!")
     }
+    
+    public func greetUserGoodMorning(name: String) {
+        print("Good Morning \(name) !!!!!")
+    }
 }
 
